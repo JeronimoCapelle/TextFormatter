@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "fstream": "cpp",
+        "iostream": "cpp",
+        "istream": "cpp",
+        "array": "cpp",
+        "atomic": "cpp",
+        "*.tcc": "cpp",
+        "charconv": "cpp",
+        "cstddef": "cpp",
+        "string_view": "cpp",
+        "algorithm": "cpp",
+        "format": "cpp",
+        "span": "cpp",
+        "ostream": "cpp"
+    }
+}
